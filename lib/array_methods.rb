@@ -1,4 +1,6 @@
 def using_include(array, element)
+  inlcude = array.include?(element)
+  return include
 
 end
 
